@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+        <PackageVersion>1.1.0</PackageVersion>
+        <Description>A package founded on a pipes and filters methodology, built with the ability to parallelize operations and manage data through a 'Channel'.</Description>
+        <PackageProjectUrl>https://terralect.com/</PackageProjectUrl>
+        <Title>Terralect.Channels</Title>
+        <Authors>Terralect</Authors>
+    </PropertyGroup>
+
+</Project>
